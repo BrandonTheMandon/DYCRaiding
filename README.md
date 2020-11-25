@@ -1,2 +1,2 @@
-# DYCRaiding.github.io
-The home for all things DYC raiding
+# DYCRaiding
+The home for all things related to DYC raiding. :)

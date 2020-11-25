@@ -1,0 +1,10 @@
+site_name: DYC? Raiding
+nav:
+    - Home: 'index.md'
+    - Roster: 'roster.md'
+theme: 
+    name: material
+    nav_style: dark
+    titles_only: true
+markdown_extensions:
+    - attr_list
